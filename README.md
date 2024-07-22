@@ -1,6 +1,11 @@
 # VTT-Painted-Miniatures
 
+![Screenshot 2024-02-21 145028](https://github.com/user-attachments/assets/a18b1afa-a78e-4df5-96db-e693ea47d808)
+
 A collection of painted digital miniatures for use in virtual tabletop (VTT) platforms. These models are provided for free "as is" and may not be sold for private use.
+
+If you enjoy this work and wish to support it you can make a [donation through KoFi](https://ko-fi.com/jerbo)
+
 
 ## 3D Model Author Attribution
 
