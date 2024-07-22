@@ -6,7 +6,7 @@ A collection of painted digital miniatures for use in virtual tabletop (VTT) pla
 
 This work is only possible thanks to the work and generosity of the following authors.
 
-- Miguel Zabala (MZ4250)
+- Miguel Zavala (MZ4250)
    - License: Models are shared for free with attribution, any original IP is subject to their respective owner's community licensing or unofficial fan content policy.
 
 ## License
