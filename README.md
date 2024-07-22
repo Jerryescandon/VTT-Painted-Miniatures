@@ -14,7 +14,7 @@ This work is only possible thanks to the work and generosity of the following au
 - Miguel Zavala (MZ4250)
    - License: Models are shared for free with attribution, any original IP is subject to their respective owner's community licensing or unofficial fan content policy.
 
-## License
+## Other licenses
 
 “VTT Painted Miniatures contains unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy.](https://company.wizards.com/en/legal/fancontentpolicy) Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast LLC.”
 
