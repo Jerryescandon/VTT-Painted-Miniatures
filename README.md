@@ -6,7 +6,9 @@ A collection of painted digital miniatures for use in virtual tabletop (VTT) pla
 
 ### Disclosure
 
-I am the lead designer of **Roletable.app** a browser based online virtual tabletop platform. The "VTT Painted Miniatures" repository was created as an effort to give back to the same roleplaying community who have generously shared their work with us. We hope this repository can help more creators bring their ideas and creativity into the world.
+I am the lead designer of **Roletable.app** a browser based online virtual tabletop platform.
+
+The "VTT Painted Miniatures" repository was created as an effort to give back to the same roleplaying community who have generously shared their work with us. We hope this repository can help more creators bring their ideas and creativity into the world.
 
 ## 3D Model Author Attribution
 
