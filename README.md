@@ -26,3 +26,9 @@ This work is only possible thanks to the work and generosity of the following au
 This work is provided for free and requires no additional support. If in spite of that you wish to support this repository here are some avenues:
 - If you wish to support our platform development, visit [Rolltable.App](https://rolltable.app/)
 - If you wish to support me individually, you can visit [KoFi](https://ko-fi.com/jerbo)
+
+## Miniature optimization process
+
+Raw files from STL miniatures are not optimized for digital platforms. To improve performane, we take several steps to decrease the size and vertex count of the original model using a combination techniques like remesh, decimation and baking, before painting the miniature models.
+
+![Decimation Process](https://github.com/user-attachments/assets/31d4fd29-cbd6-4ee8-bcf6-e1c899852764)
