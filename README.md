@@ -31,6 +31,6 @@ This work is provided for free and requires no additional support. If in spite o
 
 ## Miniature optimization process
 
-Raw files from STL miniatures are not optimized for digital platforms. To improve performane, we take several steps to decrease the size and vertex count of the original model using a combination techniques like remesh, decimation and baking, before painting the miniature models.
+Raw files from STL miniatures are not optimized for digital platforms. To improve performance it's necessary to to decrease the overall size and the vertex count of the original model. This is achieved by using a combination techniques like remesh, decimation and 'normals baking', before painting the miniature models.
 
 ![Decimation Process](https://github.com/user-attachments/assets/31d4fd29-cbd6-4ee8-bcf6-e1c899852764)
